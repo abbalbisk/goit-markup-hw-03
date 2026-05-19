@@ -1,0 +1,23 @@
+.hero{
+    background-color: #2e2f42;
+}
+.title{
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #fff;
+}
+.button{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    font-weight: 500;
+    color: #fff;
+    background-color: #4d5ae5;
+    cursor: pointer;
+}
+.button:hover, .button:focus{
+    background-color: #404bbf;
+}

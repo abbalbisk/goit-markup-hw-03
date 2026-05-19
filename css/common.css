@@ -1,0 +1,18 @@
+body{
+  font-family: "Roboto", sans-serif, "Raleway", sans-serif;
+  color: #2e2f42;
+  background-color: #fff;
+}
+h2 {
+   color:#2e2f42;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  font-weight: 700;
+
+}
+
+ul{
+  list-style-type: none;
+}
