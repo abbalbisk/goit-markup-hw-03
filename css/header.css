@@ -17,7 +17,7 @@ font-weight: 700;
   color: #2e2f42;
   list-style-type: none;
   text-decoration: none;
-  padding-right: 76px;
+  margin-right: 76px;
 }
 .portfo a {
   font-size: 16px;
@@ -26,6 +26,12 @@ font-weight: 700;
   color: #2e2f42;
   text-decoration: none;
   font-weight: 500;
+
+}
+.portfo a {
+  display:block;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .portfo a:hover {
@@ -43,6 +49,8 @@ font-weight: 700;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+    padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .address li a:hover, .address li a:focus {
@@ -61,22 +69,21 @@ font-weight: 700;
 .header-nav {
   display: flex;
   align-items: center;
-  justify-content: center;
+ 
 }
 .navigation{
     display: flex;
   align-items: center;
-  justify-content: center;
-  padding-top: 24px;
-  padding-bottom: 24px;
-padding-right: 340px;
+
+
 }
 .address{
   display: flex;
   flex-direction: row;
   gap: 40px;
-  padding: 0;
-
+}
+address {
+  margin-left: auto;
 }
 .links{
   display: flex;
