@@ -31,8 +31,7 @@
   cursor: pointer;
   border: none;
   border-radius: 4px;
-  height: 56px;
-  min-width: 169px;
+padding: 16px 32px 16px 32px;
 }
 .button:hover,
 .button:focus {
