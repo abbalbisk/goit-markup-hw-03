@@ -4,7 +4,7 @@
   flex-direction: row;
   gap: 24px;
 }
-.features-list li h3 {
+.features-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -12,7 +12,7 @@
   color: #2e2f42;
   margin-bottom: 8px;
 }
-.features-list li p {
+.features-text {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
