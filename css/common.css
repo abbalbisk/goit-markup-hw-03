@@ -2,6 +2,7 @@ body{
   font-family: "Roboto", sans-serif, "Raleway", sans-serif;
   color: #2e2f42;
   background-color: #fff;
+
 }
 h2 {
    color:#2e2f42;
@@ -15,4 +16,25 @@ h2 {
 
 ul{
   list-style-type: none;
+  padding: 0;
+}
+
+.conteiner{
+  max-width: 1158px;
+  margin: 0 auto;
+}
+.section{
+ padding: 120px 0 120px 0;
+}
+.sr-only {
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  border: 0;
+  padding: 0;
+  clip: rect(0 0 0 0);
+  clip-path: inset(100%);
+  margin: -1px;
 }

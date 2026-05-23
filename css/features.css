@@ -1,5 +1,8 @@
 .features-list{
     list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
 }
 .features-list li h3 {
     
@@ -17,4 +20,7 @@
     line-height: 1.5; 
     letter-spacing: 0.02em;
     color: #434455;
+}
+.section{
+    
 }
