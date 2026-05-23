@@ -82,7 +82,7 @@ font-weight: 700;
   flex-direction: row;
   gap: 40px;
 }
-address {
+.tag-adress {
   margin-left: auto;
 }
 .links{
